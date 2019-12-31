@@ -3,7 +3,7 @@ A score editor for the game frets on fire
 
 ![Main program](hackerhero.png)
 
-To run:
+## How to run:
 
 First make the environment
 
