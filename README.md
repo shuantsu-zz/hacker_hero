@@ -1,7 +1,7 @@
 # Hacker Hero
 A score editor for the game frets on fire
 
-![Main program](hackerhero.png)
+<kbd>![Main program](hackerhero.png)</kbd>
 
 ## How to run:
 
