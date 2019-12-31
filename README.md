@@ -7,9 +7,9 @@ To run:
 
 First make the environment
 
-  conda env create -f "environment.yml"
+```conda env create -f "environment.yml"```
 
 Then run with these commands:
 
-  conda activate 2019_12_31-hacker_hero
-  python main.py
+```conda activate 2019_12_31-hacker_hero
+python main.py```
