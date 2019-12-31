@@ -17,3 +17,8 @@ Then run with these commands:
 conda activate 2019_12_31-hacker_hero
 python main.py
 ```
+
+## Or...
+
+Download binaries for windows
+https://github.com/shuantsu/hacker_hero/releases
