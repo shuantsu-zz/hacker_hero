@@ -12,6 +12,12 @@ https://github.com/shuantsu/hacker_hero/releases
 
 ## Or...
 
+Install miniconda
+
+https://docs.conda.io/en/latest/miniconda.html
+
+(Remember to have it on the PATH)
+
 Create the environment
 
 ```
