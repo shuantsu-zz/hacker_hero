@@ -1,6 +1,8 @@
 # Hacker Hero
 A score editor for the game frets on fire
 
+#python2 #tkinter
+
 <kbd>![Main program](hackerhero.png)</kbd>
 
 ## How to run:
