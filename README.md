@@ -7,12 +7,12 @@ Made with python2 and tkinter.
 
 ## How to run:
 
-First create the environment
-
 Download binaries for windows
 https://github.com/shuantsu/hacker_hero/releases
 
 ## Or...
+
+Create the environment
 
 ```
 conda env create -f "environment.yml"
