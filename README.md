@@ -9,6 +9,11 @@ Made with python2 and tkinter.
 
 First create the environment
 
+Download binaries for windows
+https://github.com/shuantsu/hacker_hero/releases
+
+## Or...
+
 ```
 conda env create -f "environment.yml"
 ```
@@ -19,8 +24,3 @@ Then run with these commands:
 conda activate 2019_12_31-hacker_hero
 python main.py
 ```
-
-## Or...
-
-Download binaries for windows
-https://github.com/shuantsu/hacker_hero/releases
