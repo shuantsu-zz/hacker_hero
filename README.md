@@ -3,7 +3,7 @@ A score editor for the game frets on fire
 
 Made with python2 and tkinter.
 
-<kbd>![Main program](thumb.png)</kbd>
+<kbd>![Thumbnail](thumb.png)</kbd>
 
 ## How to run:
 
