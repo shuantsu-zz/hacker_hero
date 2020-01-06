@@ -7,7 +7,7 @@ Made with python2 and tkinter.
 
 ## How to run:
 
-First make the environment
+First create the environment
 
 ```
 conda env create -f "environment.yml"
